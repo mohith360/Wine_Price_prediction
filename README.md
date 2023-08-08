@@ -1,1 +1,1 @@
-# Wine_Price_prediction
+# Wine_Quality_prediction
